@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## papi oyunda
 
-You can use the [editor on GitHub](https://github.com/papioyundaa/papioyunda/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+youtube içerik üreticisiyim,eğlenceli ve komik oyun videoları çekiyorum. youtube sayfam : [papi oyunda](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+oynadığım oyunlar; [brawl stars](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md) , [among us](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md), [party animals](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md)
+anahtar kelimeler; papi oyunda,[papi](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md), [babi oyunda](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md),[babi](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md),[oyun](https://www.youtube.com/channel/UCjYcjPoqCpANuDi9rH5vk9g/edit/main/README.md)
 
 ### Markdown
 
